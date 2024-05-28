@@ -36,7 +36,7 @@ go run main.go
 
 ### Поддержка
 
-Если у вас есть вопросы или проблемы, пожалуйста, создайте [issue](https://github.com/thedeemoonn/parser/issues).
+Если у вас есть вопросы или проблемы, пожалуйста, создайте [issue](https://github.com/thedeemoonn/ozon-product-scraper/issues).
 
 ### Вклад
 
